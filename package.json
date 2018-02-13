@@ -1,0 +1,11 @@
+{
+  "name": "coveodefinitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Coveo <sandbox_JSUI@coveo.com> (http://source.coveo.com/)",
+  "license": "ISC"
+}
